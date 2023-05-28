@@ -34,7 +34,7 @@ const CreateAccount: React.FC = () => {
         return true;
       })
       .catch(async (error) => {
-        const errorCode = error.code;
+        // const errorCode = error.code;
         const errorMessage = error.message;
 
         await alert({
