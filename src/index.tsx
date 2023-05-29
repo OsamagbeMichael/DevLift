@@ -9,9 +9,9 @@ import {
 
 const firebaseConfig = {
   /* add your config object from the Firebase console */
-  apiKey: "AIzaSyBkqZmuBNdoqk4ENvRZG7vOIBQrsDgznGc",
-  authDomain: "reactfire-new.firebaseapp.com",
-  projectId: "reactfire-new",
+  apiKey: "AIzaSyAO9KHULwbkvvnuqkCBakeK6FYTqgBEMZ4",
+  authDomain: "devlift-41c8b.firebaseapp.com",
+  projectId: "devlift-41c8b",
 };
 
 
